@@ -1,22 +1,26 @@
 <div align="center">
 
-# ⚡ ПРИВЕТ ВСЕМ! / HELLO EVERYONE! ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:bb9af7,100:f7768e&height=200&section=header&text=ANKO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Night%20Tokyo%20%7C%20Web%20%7C%20SoftDev%20%7C%20GameDev%20%7C%20QA%20%7C%20AI&descAlignY=55&descSize=18" width="100%" />
+
+<a href="https://github.com/ANKOCHANNELE">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Coding+at+2AM+in+Shibuya...;%F0%9F%8E%A7+Who's+Ready+for+Tomorrow+%E2%80%94+Rat+Boy+%26+IBDY;%F0%9F%92%BE+Learning.+Building.+Repeating." alt="Typing SVG" />
+</a>
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5aG8zYzhzbW5hZWxtYXg5emF4ZTZwaWhrdGkzbXZtMnZ6cXE0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LwHg8A86qA4V5w1tO0/giphy.gif" width="110" alt="Spinning Vinyl" />
-
-▶︎  Who's Ready for Tomorrow  —  RAT BOY & IBDY  ───〇─── 3:58
-
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="90" alt="Spinning Vinyl" />
 <br>
+<sub>▶︎ Who's Ready for Tomorrow — RAT BOY & IBDY ───〇─── 3:58</sub>
 
-![Night Tokyo Theme](https://img.shields.io/badge/Aesthetic-Night%20Tokyo-8A2BE2?style=for-the-badge&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20Soft--Dev%20%7C%20Game--Dev%20%7C%20QA%20%7C%20AI-FF007F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-00F0FF?style=for-the-badge)
+<br><br>
+
+![Aesthetic](https://img.shields.io/badge/Aesthetic-Night%20Tokyo-bb9af7?style=for-the-badge&labelColor=1a1b26)
+![Focus](https://img.shields.io/badge/Focus-Web%20%7C%20SoftDev%20%7C%20GameDev%20%7C%20QA%20%7C%20AI-f7768e?style=for-the-badge&labelColor=1a1b26)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-7dcfff?style=for-the-badge&labelColor=1a1b26)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 🇷🇺 Обо мне
 
@@ -40,7 +44,7 @@ Currently, I am focusing my efforts on **Web Development, Software Engineering, 
 
 *💡 I would be super happy to receive any feedback, tips, code reviews, or just to connect with fellow developers!*
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
@@ -56,10 +60,19 @@ Currently, I am focusing my efforts on **Web Development, Software Engineering, 
 
 <br>
 
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ANKOCHANNELE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKOCHANNELE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="42%" />
+
+<br><br>
+
 **Связаться со мной / Let's Connect:**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anko.san.boo@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ANKOCHANNELE)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/anko_blog)
+[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:anko.san.boo@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-1a1b26?style=for-the-badge&logo=youtube&logoColor=f7768e)](https://www.youtube.com/@ANKOCHANNELE)
+[![Telegram](https://img.shields.io/badge/Telegram-1a1b26?style=for-the-badge&logo=telegram&logoColor=7dcfff)](https://t.me/anko_blog)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:1a1b26&height=100&section=footer" width="100%" />
 
 </div>
