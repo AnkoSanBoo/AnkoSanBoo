@@ -60,11 +60,6 @@ Currently, I am focusing my efforts on **Web Development, Software Engineering, 
 
 <br>
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ANKOCHANNELE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKOCHANNELE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="42%" />
-
 <br><br>
 
 **Связаться со мной / Let's Connect:**
